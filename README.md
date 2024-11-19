@@ -1,17 +1,22 @@
-<div align="center">
-  <img src="https://media3.giphy.com/media/cpAGF6uxLw93uuQNNJ/100.webp?cid=ecf05e47f4vij1h9bz31t47a9kcsdqc7hdgdxo6vq0utdpqn&ep=v1_gifs_related&rid=100.webp&ct=s" width="200"/>
+<div style="display: flex; align-items: center; gap: 8px;">
+  <img src="https://media3.giphy.com/media/cpAGF6uxLw93uuQNNJ/100.webp?cid=ecf05e47f4vij1h9bz31t47a9kcsdqc7hdgdxo6vq0utdpqn&ep=v1_gifs_related&rid=100.webp&ct=s" width="100"/>
 
-  <h1>¡Hola 👋🏼! Soy Aníbal 👨🏻‍💻</h1>
+  <h1>¡Bienvenid@ a mi perfil de GitHub!</h1>
 </div>
 
-¡Te doy la bienvenida a mi perfil de GitHub! Soy un estudiante autodidacta enfocado en el mundo del **desarrollo frontend**. Mi objetivo es mejorar mis habilidades y ampliar mis conocimientos para convertirme en un excelente profesional.
+![banner de anibalcoder](banner.png)
 
-## Tecnologias 💻
+Autodidacta apasionado por el **desarrollo frontend**. Mi objetivo es mejorar mis habilidades y ampliar mis conocimientos para **convertirme en un excelente profesional**.
 
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
+## Tecnologías 💻
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ## Mis Estadísticas 📊🚀
 
