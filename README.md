@@ -1,8 +1,4 @@
-<div style="display: flex; align-items: center; gap: 8px;">
-  <img src="https://media3.giphy.com/media/cpAGF6uxLw93uuQNNJ/100.webp?cid=ecf05e47f4vij1h9bz31t47a9kcsdqc7hdgdxo6vq0utdpqn&ep=v1_gifs_related&rid=100.webp&ct=s" width="100"/>
-
-  <h1>¡Bienvenid@ a mi perfil de GitHub!</h1>
-</div>
+# <img src="https://media3.giphy.com/media/cpAGF6uxLw93uuQNNJ/100.webp?cid=ecf05e47f4vij1h9bz31t47a9kcsdqc7hdgdxo6vq0utdpqn&ep=v1_gifs_related&rid=100.webp&ct=s" width="100"/> ¡Bienvenid@ a mi perfil de GitHub!
 
 ![banner de anibalcoder](banner.png)
 
